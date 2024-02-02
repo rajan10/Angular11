@@ -1,6 +1,6 @@
 # Angular11 Projects
 
-Ng10 project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
+Ng11 project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.6.
 
 ## Development server
 
